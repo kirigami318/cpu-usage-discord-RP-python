@@ -22,6 +22,6 @@ discord rich presence that give information about cpu and ram usage presentasion
 - fill the require to launch
 - done and launch the code
 
-##Package Web
+## Package Web
 - [pypresence](https://pypi.org/project/pypresence/)
 - [psutil](https://pypi.org/project/psutil/)
